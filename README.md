@@ -40,3 +40,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 34 | [1328A](https://codeforces.com/problemset/problem/1328/A) | Divisibility Problem | 10‑Aug‑2026 | [DivisibilityProblem.java](DivisibilityProblem.java) |
 | 35 | [705A](https://codeforces.com/problemset/problem/705/A) | Hulk | 11‑Aug‑2026 | [Hulk.java](Hulk.java) |
 | 36 | [520A](https://codeforces.com/problemset/problem/520/A) | Pangram | 12‑Aug‑2026 | [Pangram.java](Pangram.java) |
+| 37 | [144A](https://codeforces.com/problemset/problem/144/A) | Arrival of the General | 13-Aug-2026 | [ArrivalOfTheGeneral.java](ArrivalOfTheGeneral.java) |
