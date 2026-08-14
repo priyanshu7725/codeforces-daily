@@ -41,3 +41,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 35 | [705A](https://codeforces.com/problemset/problem/705/A) | Hulk | 11‑Aug‑2026 | [Hulk.java](Hulk.java) |
 | 36 | [520A](https://codeforces.com/problemset/problem/520/A) | Pangram | 12‑Aug‑2026 | [Pangram.java](Pangram.java) |
 | 37 | [144A](https://codeforces.com/problemset/problem/144/A) | Arrival of the General | 13-Aug-2026 | [ArrivalOfTheGeneral.java](ArrivalOfTheGeneral.java) |
+| 38 | [469A](https://codeforces.com/problemset/problem/469/A) | I Wanna Be the Guy | 14-Aug-2026 | [IWannaBeTheGuy.java](IWannaBeTheGuy.java) |

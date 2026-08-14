@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 37 problems
+Total: 38 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -41,3 +41,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 35  | 705A       | Hulk                                  | 11-Aug-2026
 36  | 520A       | Pangram                               | 12-Aug-2026
 37  | 144A       | Arrival of the General                | 13-Aug-2026
+38  | 469A       | I Wanna Be the Guy                    | 14-Aug-2026
