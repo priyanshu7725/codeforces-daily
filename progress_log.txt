@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 38 problems
+Total: 39 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -42,3 +42,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 36  | 520A       | Pangram                               | 12-Aug-2026
 37  | 144A       | Arrival of the General                | 13-Aug-2026
 38  | 469A       | I Wanna Be the Guy                    | 14-Aug-2026
+39  | 996A       | Hit the Lottery                       | 15-Aug-2026
