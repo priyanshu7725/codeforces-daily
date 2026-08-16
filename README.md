@@ -44,3 +44,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 38 | [469A](https://codeforces.com/problemset/problem/469/A) | I Wanna Be the Guy | 14-Aug-2026 | [IWannaBeTheGuy.java](IWannaBeTheGuy.java) |
 | 39 | [996A](https://codeforces.com/problemset/problem/996/A) | Hit the Lottery | 15-Aug-2026 | [HitTheLottery.java](HitTheLottery.java) |
 | 40 | [443A](https://codeforces.com/problemset/problem/443/A) | Anton and Letters | 16-Aug-2026 | [AntonAndLetters.java](AntonAndLetters.java) |
+| 41 | [148A](https://codeforces.com/problemset/problem/148/A) | Insomnia Cure | 17-Aug-2026 | [InsomniaCure.java](InsomniaCure.java) |

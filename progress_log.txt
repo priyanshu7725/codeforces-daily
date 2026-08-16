@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 40 problems
+Total: 41 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -44,3 +44,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 38  | 469A       | I Wanna Be the Guy                    | 14-Aug-2026
 39  | 996A       | Hit the Lottery                       | 15-Aug-2026
 40  | 443A       | Anton and Letters                     | 16-Aug-2026
+41  | 148A       | Insomnia Cure                         | 17-Aug-2026
