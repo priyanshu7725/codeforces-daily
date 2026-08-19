@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 42 problems
+Total: 43 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -46,3 +46,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 40  | 443A       | Anton and Letters                     | 16-Aug-2026
 41  | 148A       | Insomnia Cure                         | 17-Aug-2026
 42  | 785A       | Anton and Polyhedrons                 | 18-Aug-2026
+43  | 510A       | Fox And Snake                         | 19-Aug-2026
