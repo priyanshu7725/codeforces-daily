@@ -47,3 +47,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 41 | [148A](https://codeforces.com/problemset/problem/148/A) | Insomnia Cure | 17-Aug-2026 | [InsomniaCure.java](InsomniaCure.java) |
 | 42 | [785A](https://codeforces.com/problemset/problem/785/A) | Anton and Polyhedrons | 18-Aug-2026 | [AntonAndPolyhedrons.java](AntonAndPolyhedrons.java) |
 | 43 | [510A](https://codeforces.com/problemset/problem/510/A) | Fox And Snake | 19-Aug-2026 | [FoxAndSnake.java](FoxAndSnake.java) |
+| 44 | [1742A](https://codeforces.com/problemset/problem/1742/A) | Sum | 20-Aug-2026 | [Sum.java](Sum.java) |
