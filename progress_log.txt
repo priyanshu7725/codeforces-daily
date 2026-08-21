@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 44 problems
+Total: 45 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -48,3 +48,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 42  | 785A       | Anton and Polyhedrons                 | 18-Aug-2026
 43  | 510A       | Fox And Snake                         | 19-Aug-2026
 44  | 1742A      | Sum                                   | 20-Aug-2026
+45  | 1352A      | Sum of Round Numbers                  | 21-Aug-2026
