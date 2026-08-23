@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 49 problems
+Total: 50 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -53,3 +53,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 47  | 268A       | Games                                 | 23-Aug-2026
 48  | 141A       | Amusing Joke                          | 23-Aug-2026
 49  | 723A       | The New Year: Meeting Friends         | 23-Aug-2026
+50  | 1899A      | Game with Integers                    | 23-Aug-2026
