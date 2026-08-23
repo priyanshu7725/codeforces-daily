@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 48 problems
+Total: 49 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -52,3 +52,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 46  | 1335A      | Candies and Two Sisters               | 22-Aug-2026
 47  | 268A       | Games                                 | 23-Aug-2026
 48  | 141A       | Amusing Joke                          | 23-Aug-2026
+49  | 723A       | The New Year: Meeting Friends         | 23-Aug-2026
