@@ -54,3 +54,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 48 | [141A](https://codeforces.com/problemset/problem/141/A) | Amusing Joke | 23-Aug-2026 | [AmusingJoke.java](AmusingJoke.java) |
 | 49 | [723A](https://codeforces.com/problemset/problem/723/A) | The New Year: Meeting Friends | 23-Aug-2026 | [TheNewYearMeetingFriends.java](TheNewYearMeetingFriends.java) |
 | 50 | [1899A](https://codeforces.com/problemset/problem/1899/A) | Game with Integers | 23-Aug-2026 | [GameWithIntegers.java](GameWithIntegers.java) |
+| 51 | [1903A](https://codeforces.com/problemset/problem/1903/A) | Halloumi Boxes | 23-Aug-2026 | [HalloumiBoxes.java](HalloumiBoxes.java) |
