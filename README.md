@@ -50,3 +50,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 44 | [1742A](https://codeforces.com/problemset/problem/1742/A) | Sum | 20-Aug-2026 | [Sum.java](Sum.java) |
 | 45 | [1352A](https://codeforces.com/problemset/problem/1352/A) | Sum of Round Numbers | 21-Aug-2026 | [SumOfRoundNumbers.java](SumOfRoundNumbers.java) |
 | 46 | [1335A](https://codeforces.com/problemset/problem/1335/A) | Candies and Two Sisters | 22-Aug-2026 | [CandiesAndTwoSisters.java](CandiesAndTwoSisters.java) |
+| 47 | [268A](https://codeforces.com/problemset/problem/268/A) | Games | 23-Aug-2026 | [Games.java](Games.java) |
