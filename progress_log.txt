@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 47 problems
+Total: 48 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -51,3 +51,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 45  | 1352A      | Sum of Round Numbers                  | 21-Aug-2026
 46  | 1335A      | Candies and Two Sisters               | 22-Aug-2026
 47  | 268A       | Games                                 | 23-Aug-2026
+48  | 141A       | Amusing Joke                          | 23-Aug-2026

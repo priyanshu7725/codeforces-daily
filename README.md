@@ -3,7 +3,7 @@
 A daily practice log of Codeforces problems solved in Java.
 
 | # | Problem ID | Problem Name | Date Solved | Solution |
-|---|------------|--------------|-------------|----------|
+| --- | ------------ | -------------- | ------------- | ---------- |
 | 1 | [4A](https://codeforces.com/problemset/problem/4/A) | Watermelon | 14‑Jul‑2026 | [Watermelon.java](Watermelon.java) |
 | 2 | [71A](https://codeforces.com/problemset/problem/71/A) | Way Too Long Words | 15‑Jul‑2026 | [WayTooLongWords.java](WayTooLongWords.java) |
 | 3 | [231A](https://codeforces.com/problemset/problem/231/A) | Team | 16‑Jul‑2026 | [Team.java](Team.java) |
@@ -51,3 +51,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 45 | [1352A](https://codeforces.com/problemset/problem/1352/A) | Sum of Round Numbers | 21-Aug-2026 | [SumOfRoundNumbers.java](SumOfRoundNumbers.java) |
 | 46 | [1335A](https://codeforces.com/problemset/problem/1335/A) | Candies and Two Sisters | 22-Aug-2026 | [CandiesAndTwoSisters.java](CandiesAndTwoSisters.java) |
 | 47 | [268A](https://codeforces.com/problemset/problem/268/A) | Games | 23-Aug-2026 | [Games.java](Games.java) |
+| 48 | [141A](https://codeforces.com/problemset/problem/141/A) | Amusing Joke | 23-Aug-2026 | [AmusingJoke.java](AmusingJoke.java) |
