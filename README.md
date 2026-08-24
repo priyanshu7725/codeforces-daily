@@ -56,3 +56,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 50 | [1899A](https://codeforces.com/problemset/problem/1899/A) | Game with Integers | 23-Aug-2026 | [GameWithIntegers.java](GameWithIntegers.java) |
 | 51 | [1903A](https://codeforces.com/problemset/problem/1903/A) | Halloumi Boxes | 23-Aug-2026 | [HalloumiBoxes.java](HalloumiBoxes.java) |
 | 52 | [1901A](https://codeforces.com/problemset/problem/1901/A) | Line Trip | 23-Aug-2026 | [LineTrip.java](LineTrip.java) |
+| 53 | [1890A](https://codeforces.com/problemset/problem/1890/A) | Doremy's Paint 3 | 24-Aug-2026 | [DoremySPaint3.java](DoremySPaint3.java) |

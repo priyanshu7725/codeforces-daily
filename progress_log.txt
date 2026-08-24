@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 52 problems
+Total: 53 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -56,3 +56,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 50  | 1899A      | Game with Integers                    | 23-Aug-2026
 51  | 1903A      | Halloumi Boxes                        | 23-Aug-2026
 52  | 1901A      | Line Trip                             | 23-Aug-2026
+53  | 1890A      | Doremy's Paint 3                      | 24-Aug-2026
