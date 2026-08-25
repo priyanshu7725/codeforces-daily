@@ -61,3 +61,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 55 | [1878A](https://codeforces.com/problemset/problem/1878/A) | How Much Does Daytona Cost | 25-Aug-2026 | [HowMuchDoesDaytonaCost.java](HowMuchDoesDaytonaCost.java) |
 | 56 | [1877A](https://codeforces.com/problemset/problem/1877/A) | Goals of Victory | 25-Aug-2026 | [GoalsOfVictory.java](GoalsOfVictory.java) |
 | 57 | [1873C](https://codeforces.com/problemset/problem/1873/C) | Target Practice | 26-Aug-2026 | [TargetPractice.java](TargetPractice.java) |
+| 58 | [1866A](https://codeforces.com/problemset/problem/1866/A) | Ambitious Kid | 26-Aug-2026 | [AmbitiousKid.java](AmbitiousKid.java) |

@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 57 problems
+Total: 58 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -61,3 +61,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 55  | 1878A      | How Much Does Daytona Cost            | 25-Aug-2026
 56  | 1877A      | Goals of Victory                      | 25-Aug-2026
 57  | 1873C      | Target Practice                       | 26-Aug-2026
+58  | 1866A      | Ambitious Kid                         | 26-Aug-2026
