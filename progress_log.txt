@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 54 problems
+Total: 55 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -58,3 +58,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 52  | 1901A      | Line Trip                             | 23-Aug-2026
 53  | 1890A      | Doremy's Paint 3                      | 24-Aug-2026
 54  | 1881A      | Don't Try to Count                    | 25-Aug-2026
+55  | 1878A      | How Much Does Daytona Cost            | 25-Aug-2026
