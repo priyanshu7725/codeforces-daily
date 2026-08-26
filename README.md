@@ -62,3 +62,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 56 | [1877A](https://codeforces.com/problemset/problem/1877/A) | Goals of Victory | 25-Aug-2026 | [GoalsOfVictory.java](GoalsOfVictory.java) |
 | 57 | [1873C](https://codeforces.com/problemset/problem/1873/C) | Target Practice | 26-Aug-2026 | [TargetPractice.java](TargetPractice.java) |
 | 58 | [1866A](https://codeforces.com/problemset/problem/1866/A) | Ambitious Kid | 26-Aug-2026 | [AmbitiousKid.java](AmbitiousKid.java) |
+| 59 | [1862B](https://codeforces.com/problemset/problem/1862/B) | Sequence Game | 26-Aug-2026 | [SequenceGame.java](SequenceGame.java) |
