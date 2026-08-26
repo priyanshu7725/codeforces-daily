@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 61 problems
+Total: 62 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -65,3 +65,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 59  | 1862B      | Sequence Game                         | 26-Aug-2026
 60  | 1858A      | Buttons                               | 26-Aug-2026
 61  | 1857A      | Array Coloring                        | 26-Aug-2026
+62  | 1853A      | Desorting                             | 27-Aug-2026

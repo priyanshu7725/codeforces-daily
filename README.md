@@ -65,3 +65,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 59 | [1862B](https://codeforces.com/problemset/problem/1862/B) | Sequence Game | 26-Aug-2026 | [SequenceGame.java](SequenceGame.java) |
 | 60 | [1858A](https://codeforces.com/problemset/problem/1858/A) | Buttons | 26-Aug-2026 | [Buttons.java](Buttons.java) |
 | 61 | [1857A](https://codeforces.com/problemset/problem/1857/A) | Array Coloring | 26-Aug-2026 | [ArrayColoring.java](ArrayColoring.java) |
+| 62 | [1853A](https://codeforces.com/problemset/problem/1853/A) | Desorting | 27-Aug-2026 | [Desorting.java](Desorting.java) |
