@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 60 problems
+Total: 61 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -64,3 +64,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 58  | 1866A      | Ambitious Kid                         | 26-Aug-2026
 59  | 1862B      | Sequence Game                         | 26-Aug-2026
 60  | 1858A      | Buttons                               | 26-Aug-2026
+61  | 1857A      | Array Coloring                        | 26-Aug-2026

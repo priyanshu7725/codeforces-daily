@@ -64,3 +64,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 58 | [1866A](https://codeforces.com/problemset/problem/1866/A) | Ambitious Kid | 26-Aug-2026 | [AmbitiousKid.java](AmbitiousKid.java) |
 | 59 | [1862B](https://codeforces.com/problemset/problem/1862/B) | Sequence Game | 26-Aug-2026 | [SequenceGame.java](SequenceGame.java) |
 | 60 | [1858A](https://codeforces.com/problemset/problem/1858/A) | Buttons | 26-Aug-2026 | [Buttons.java](Buttons.java) |
+| 61 | [1857A](https://codeforces.com/problemset/problem/1857/A) | Array Coloring | 26-Aug-2026 | [ArrayColoring.java](ArrayColoring.java) |
