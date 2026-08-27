@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 63 problems
+Total: 64 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -67,3 +67,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 61  | 1857A      | Array Coloring                        | 26-Aug-2026
 62  | 1853A      | Desorting                             | 27-Aug-2026
 63  | 1845A      | Forbidden Integer                     | 27-Aug-2026
+64  | 1837A      | Grasshopper on a Line                 | 27-Aug-2026

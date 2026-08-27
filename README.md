@@ -67,3 +67,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 61 | [1857A](https://codeforces.com/problemset/problem/1857/A) | Array Coloring | 26-Aug-2026 | [ArrayColoring.java](ArrayColoring.java) |
 | 62 | [1853A](https://codeforces.com/problemset/problem/1853/A) | Desorting | 27-Aug-2026 | [Desorting.java](Desorting.java) |
 | 63 | [1845A](https://codeforces.com/problemset/problem/1845/A) | Forbidden Integer | 27-Aug-2026 | [ForbiddenInteger.java](ForbiddenInteger.java) |
+| 64 | [1837A](https://codeforces.com/problemset/problem/1837/A) | Grasshopper on a Line | 27-Aug-2026 | [GrasshopperOnALine.java](GrasshopperOnALine.java) |
