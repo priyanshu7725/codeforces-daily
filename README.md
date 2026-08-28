@@ -69,3 +69,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 63 | [1845A](https://codeforces.com/problemset/problem/1845/A) | Forbidden Integer | 27-Aug-2026 | [ForbiddenInteger.java](ForbiddenInteger.java) |
 | 64 | [1837A](https://codeforces.com/problemset/problem/1837/A) | Grasshopper on a Line | 27-Aug-2026 | [GrasshopperOnALine.java](GrasshopperOnALine.java) |
 | 65 | [1834A](https://codeforces.com/problemset/problem/1834/A) | Unit Array | 28-Aug-2026 | [UnitArray.java](UnitArray.java) |
+| 66 | [1831A](https://codeforces.com/problemset/problem/1831/A) | Twin Permutations | 28-Aug-2026 | [TwinPermutations.java](TwinPermutations.java) |
