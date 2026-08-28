@@ -72,3 +72,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 66 | [1831A](https://codeforces.com/problemset/problem/1831/A) | Twin Permutations | 28-Aug-2026 | [TwinPermutations.java](TwinPermutations.java) |
 | 67 | [1829B](https://codeforces.com/problemset/problem/1829/B) | Blank Space | 28-Aug-2026 | [BlankSpace.java](BlankSpace.java) |
 | 68 | [1814A](https://codeforces.com/problemset/problem/1814/A) | Coins | 28-Aug-2026 | [Coins.java](Coins.java) |
+| 69 | [1806A](https://codeforces.com/problemset/problem/1806/A) | Walking Master | 28-Aug-2026 | [WalkingMaster.java](WalkingMaster.java) |
