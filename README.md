@@ -74,3 +74,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 68 | [1814A](https://codeforces.com/problemset/problem/1814/A) | Coins | 28-Aug-2026 | [Coins.java](Coins.java) |
 | 69 | [1806A](https://codeforces.com/problemset/problem/1806/A) | Walking Master | 28-Aug-2026 | [WalkingMaster.java](WalkingMaster.java) |
 | 70 | [1805A](https://codeforces.com/problemset/problem/1805/A) | We Need the Zero | 28-Aug-2026 | [WeNeedTheZero.java](WeNeedTheZero.java) |
+| 71 | [1791C](https://codeforces.com/problemset/problem/1791/C) | Prepend and Append | 28-Aug-2026 | [PrependAndAppend.java](PrependAndAppend.java) |
