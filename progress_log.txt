@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 67 problems
+Total: 68 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -71,3 +71,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 65  | 1834A      | Unit Array                            | 28-Aug-2026
 66  | 1831A      | Twin Permutations                     | 28-Aug-2026
 67  | 1829B      | Blank Space                           | 28-Aug-2026
+68  | 1814A      | Coins                                 | 28-Aug-2026
