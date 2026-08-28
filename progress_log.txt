@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 66 problems
+Total: 67 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -70,3 +70,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 64  | 1837A      | Grasshopper on a Line                 | 27-Aug-2026
 65  | 1834A      | Unit Array                            | 28-Aug-2026
 66  | 1831A      | Twin Permutations                     | 28-Aug-2026
+67  | 1829B      | Blank Space                           | 28-Aug-2026
