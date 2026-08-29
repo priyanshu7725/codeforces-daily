@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 71 problems
+Total: 72 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -75,3 +75,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 69  | 1806A      | Walking Master                        | 28-Aug-2026
 70  | 1805A      | We Need the Zero                      | 28-Aug-2026
 71  | 1791C      | Prepend and Append                    | 28-Aug-2026
+72  | 1788A      | One and Two                           | 29-Aug-2026
