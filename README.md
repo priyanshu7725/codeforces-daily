@@ -77,3 +77,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 71 | [1791C](https://codeforces.com/problemset/problem/1791/C) | Prepend and Append | 28-Aug-2026 | [PrependAndAppend.java](PrependAndAppend.java) |
 | 72 | [1788A](https://codeforces.com/problemset/problem/1788/A) | One and Two | 29-Aug-2026 | [OneAndTwo.java](OneAndTwo.java) |
 | 73 | [1900A](https://codeforces.com/problemset/problem/1900/A) | Cover in Water | 30-Aug-2026 | [CoverInWater.java](CoverInWater.java) |
+| 74 | [1896A](https://codeforces.com/problemset/problem/1896/A) | Jagged Swaps | 30-Aug-2026 | [JaggedSwaps.java](JaggedSwaps.java) |
