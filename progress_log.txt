@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 72 problems
+Total: 73 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -76,3 +76,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 70  | 1805A      | We Need the Zero                      | 28-Aug-2026
 71  | 1791C      | Prepend and Append                    | 28-Aug-2026
 72  | 1788A      | One and Two                           | 29-Aug-2026
+73  | 1900A      | Cover in Water                        | 30-Aug-2026

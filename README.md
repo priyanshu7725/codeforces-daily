@@ -76,3 +76,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 70 | [1805A](https://codeforces.com/problemset/problem/1805/A) | We Need the Zero | 28-Aug-2026 | [WeNeedTheZero.java](WeNeedTheZero.java) |
 | 71 | [1791C](https://codeforces.com/problemset/problem/1791/C) | Prepend and Append | 28-Aug-2026 | [PrependAndAppend.java](PrependAndAppend.java) |
 | 72 | [1788A](https://codeforces.com/problemset/problem/1788/A) | One and Two | 29-Aug-2026 | [OneAndTwo.java](OneAndTwo.java) |
+| 73 | [1900A](https://codeforces.com/problemset/problem/1900/A) | Cover in Water | 30-Aug-2026 | [CoverInWater.java](CoverInWater.java) |
