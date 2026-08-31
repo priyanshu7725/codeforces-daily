@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 74 problems
+Total: 75 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -78,3 +78,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 72  | 1788A      | One and Two                           | 29-Aug-2026
 73  | 1900A      | Cover in Water                        | 30-Aug-2026
 74  | 1896A      | Jagged Swaps                          | 30-Aug-2026
+75  | 1766A      | Extremely Round                       | 31-Aug-2026
