@@ -79,3 +79,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 73 | [1900A](https://codeforces.com/problemset/problem/1900/A) | Cover in Water | 30-Aug-2026 | [CoverInWater.java](CoverInWater.java) |
 | 74 | [1896A](https://codeforces.com/problemset/problem/1896/A) | Jagged Swaps | 30-Aug-2026 | [JaggedSwaps.java](JaggedSwaps.java) |
 | 75 | [1766A](https://codeforces.com/problemset/problem/1766/A) | Extremely Round | 31-Aug-2026 | [ExtremelyRound.java](ExtremelyRound.java) |
+| 76 | [155A](https://codeforces.com/problemset/problem/155/A) | I_love_\%username\% | 01-Sep-2026 | [ILoveUsername.java](ILoveUsername.java) |
