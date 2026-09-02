@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 77 problems
+Total: 78 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -81,3 +81,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 75  | 1766A      | Extremely Round                       | 31-Aug-2026
 76  | 155A       | I_love_\%username\%                   | 01-Sep-2026
 77  | 427A       | Police Recruits                       | 02-Sep-2026
+78  | 1703A      | YES or YES?                           | 02-Sep-2026
