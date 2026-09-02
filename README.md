@@ -80,3 +80,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 74 | [1896A](https://codeforces.com/problemset/problem/1896/A) | Jagged Swaps | 30-Aug-2026 | [JaggedSwaps.java](JaggedSwaps.java) |
 | 75 | [1766A](https://codeforces.com/problemset/problem/1766/A) | Extremely Round | 31-Aug-2026 | [ExtremelyRound.java](ExtremelyRound.java) |
 | 76 | [155A](https://codeforces.com/problemset/problem/155/A) | I_love_\%username\% | 01-Sep-2026 | [ILoveUsername.java](ILoveUsername.java) |
+| 77 | [427A](https://codeforces.com/problemset/problem/427/A) | Police Recruits | 02-Sep-2026 | [PoliceRecruits.java](PoliceRecruits.java) |
