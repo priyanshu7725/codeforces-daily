@@ -83,3 +83,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 77 | [427A](https://codeforces.com/problemset/problem/427/A) | Police Recruits | 02-Sep-2026 | [PoliceRecruits.java](PoliceRecruits.java) |
 | 78 | [1703A](https://codeforces.com/problemset/problem/1703/A) | YES or YES? | 02-Sep-2026 | [YesOrYes.java](YesOrYes.java) |
 | 79 | [1875A](https://codeforces.com/problemset/problem/1875/A) | Jellyfish and Undertale | 03-Sep-2026 | [JellyfishAndUndertale.java](JellyfishAndUndertale.java) |
+| 80 | [1904A](https://codeforces.com/problemset/problem/1904/A) | Forked! | 04-Sep-2026 | [Forked.java](Forked.java) |
