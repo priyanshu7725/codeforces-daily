@@ -85,3 +85,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 79 | [1875A](https://codeforces.com/problemset/problem/1875/A) | Jellyfish and Undertale | 03-Sep-2026 | [JellyfishAndUndertale.java](JellyfishAndUndertale.java) |
 | 80 | [1904A](https://codeforces.com/problemset/problem/1904/A) | Forked! | 04-Sep-2026 | [Forked.java](Forked.java) |
 | 81 | [1883B](https://codeforces.com/problemset/problem/1883/B) | Chemistry | 04-Sep-2026 | [Chemistry.java](Chemistry.java) |
+| 82 | [1878C](https://codeforces.com/problemset/problem/1878/C) | Vasilije in Cacak | 04-Sep-2026 | [VasilijeInCacak.java](VasilijeInCacak.java) |

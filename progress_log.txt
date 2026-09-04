@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 81 problems
+Total: 82 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -85,3 +85,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 79  | 1875A      | Jellyfish and Undertale               | 03-Sep-2026
 80  | 1904A      | Forked!                               | 04-Sep-2026
 81  | 1883B      | Chemistry                             | 04-Sep-2026
+82  | 1878C      | Vasilije in Cacak                     | 04-Sep-2026
