@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 80 problems
+Total: 81 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -84,3 +84,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 78  | 1703A      | YES or YES?                           | 02-Sep-2026
 79  | 1875A      | Jellyfish and Undertale               | 03-Sep-2026
 80  | 1904A      | Forked!                               | 04-Sep-2026
+81  | 1883B      | Chemistry                             | 04-Sep-2026
