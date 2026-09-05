@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 83 problems
+Total: 84 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -87,3 +87,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 81  | 1883B      | Chemistry                             | 04-Sep-2026
 82  | 1878C      | Vasilije in Cacak                     | 04-Sep-2026
 83  | 2259A      | Moo Language School                   | 05-Sep-2026
+84  | 2259B      | Minus Two                             | 05-Sep-2026
