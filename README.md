@@ -88,3 +88,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 82 | [1878C](https://codeforces.com/problemset/problem/1878/C) | Vasilije in Cacak | 04-Sep-2026 | [VasilijeInCacak.java](VasilijeInCacak.java) |
 | 83 | [2259A](https://codeforces.com/problemset/problem/2259/A) | Moo Language School | 05-Sep-2026 | [MooLanguageSchool.java](MooLanguageSchool.java) |
 | 84 | [2259B](https://codeforces.com/problemset/problem/2259/B) | Minus Two | 05-Sep-2026 | [MinusTwo.java](MinusTwo.java) |
+| 85 | [118A](https://codeforces.com/problemset/problem/118/A) | String Task | 06-Sep-2026 | [StringTask.java](StringTask.java) |
