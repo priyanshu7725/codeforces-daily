@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 86 problems
+Total: 87 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -90,3 +90,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 84  | 2259B      | Minus Two                             | 05-Sep-2026
 85  | 118A       | String Task                           | 06-Sep-2026
 86  | 151A       | Soft Drinking                         | 07-Sep-2026
+87  | 630A       | Again Twenty Five!                    | 08-Sep-2026
