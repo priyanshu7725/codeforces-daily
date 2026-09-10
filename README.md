@@ -92,3 +92,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 86 | [151A](https://codeforces.com/problemset/problem/151/A) | Soft Drinking | 07-Sep-2026 | [SoftDrinking.java](SoftDrinking.java) |
 | 87 | [630A](https://codeforces.com/problemset/problem/630/A) | Again Twenty Five! | 08-Sep-2026 | [AgainTwentyFive.java](AgainTwentyFive.java) |
 | 88 | [750A](https://codeforces.com/problemset/problem/750/A) | New Year and Hurry | 09-Sep-2026 | [NewYearAndHurry.java](NewYearAndHurry.java) |
+| 89 | [381A](https://codeforces.com/problemset/problem/381/A) | Sereja and Dima | 10-Sep-2026 | [SerejaAndDima.java](SerejaAndDima.java) |
