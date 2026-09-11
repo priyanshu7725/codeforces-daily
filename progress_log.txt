@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 89 problems
+Total: 90 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -93,3 +93,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 87  | 630A       | Again Twenty Five!                    | 08-Sep-2026
 88  | 750A       | New Year and Hurry                    | 09-Sep-2026
 89  | 381A       | Sereja and Dima                       | 10-Sep-2026
+90  | 1669A      | Division?                             | 11-Sep-2026
