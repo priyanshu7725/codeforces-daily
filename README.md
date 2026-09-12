@@ -95,3 +95,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 89 | [381A](https://codeforces.com/problemset/problem/381/A) | Sereja and Dima | 10-Sep-2026 | [SerejaAndDima.java](SerejaAndDima.java) |
 | 90 | [1669A](https://codeforces.com/problemset/problem/1669/A) | Division? | 11-Sep-2026 | [Division.java](Division.java) |
 | 91 | [732A](https://codeforces.com/problemset/problem/732/A) | Buy a Shovel | 12-Sep-2026 | [BuyAShovel.java](BuyAShovel.java) |
+| 92 | [1676A](https://codeforces.com/problemset/problem/1676/A) | Lucky? | 13-Sep-2026 | [Lucky.java](Lucky.java) |
