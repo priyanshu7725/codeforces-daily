@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 92 problems
+Total: 93 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -96,3 +96,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 90  | 1669A      | Division?                             | 11-Sep-2026
 91  | 732A       | Buy a Shovel                          | 12-Sep-2026
 92  | 1676A      | Lucky?                                | 13-Sep-2026
+93  | 1154A      | Restoring Three Numbers               | 14-Sep-2026
