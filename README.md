@@ -97,3 +97,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 91 | [732A](https://codeforces.com/problemset/problem/732/A) | Buy a Shovel | 12-Sep-2026 | [BuyAShovel.java](BuyAShovel.java) |
 | 92 | [1676A](https://codeforces.com/problemset/problem/1676/A) | Lucky? | 13-Sep-2026 | [Lucky.java](Lucky.java) |
 | 93 | [1154A](https://codeforces.com/problemset/problem/1154/A) | Restoring Three Numbers | 14-Sep-2026 | [RestoringThreeNumbers.java](RestoringThreeNumbers.java) |
+| 94 | [1692A](https://codeforces.com/problemset/problem/1692/A) | Marathon | 15-Sep-2026 | [Marathon.java](Marathon.java) |
