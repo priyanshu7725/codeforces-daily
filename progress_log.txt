@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 94 problems
+Total: 95 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -98,3 +98,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 92  | 1676A      | Lucky?                                | 13-Sep-2026
 93  | 1154A      | Restoring Three Numbers               | 14-Sep-2026
 94  | 1692A      | Marathon                              | 15-Sep-2026
+95  | 1807A      | Plus or Minus                         | 16-Sep-2026
