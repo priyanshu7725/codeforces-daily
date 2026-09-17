@@ -99,3 +99,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 93 | [1154A](https://codeforces.com/problemset/problem/1154/A) | Restoring Three Numbers | 14-Sep-2026 | [RestoringThreeNumbers.java](RestoringThreeNumbers.java) |
 | 94 | [1692A](https://codeforces.com/problemset/problem/1692/A) | Marathon | 15-Sep-2026 | [Marathon.java](Marathon.java) |
 | 95 | [1807A](https://codeforces.com/problemset/problem/1807/A) | Plus or Minus | 16-Sep-2026 | [PlusOrMinus.java](PlusOrMinus.java) |
+| 96 | [1791A](https://codeforces.com/problemset/problem/1791/A) | Codeforces Checking | 17-Sep-2026 | [CodeforcesChecking.java](CodeforcesChecking.java) |
