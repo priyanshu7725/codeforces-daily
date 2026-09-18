@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 96 problems
+Total: 97 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -100,3 +100,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 94  | 1692A      | Marathon                              | 15-Sep-2026
 95  | 1807A      | Plus or Minus                         | 16-Sep-2026
 96  | 1791A      | Codeforces Checking                   | 17-Sep-2026
+97  | 1999A      | A+B Again?                            | 18-Sep-2026
