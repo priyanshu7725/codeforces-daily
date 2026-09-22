@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 98 problems
+Total: 99 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -102,3 +102,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 96  | 1791A      | Codeforces Checking                   | 17-Sep-2026
 97  | 1999A      | A+B Again?                            | 18-Sep-2026
 98  | 1512A      | Spy Detected!                         | 19-Sep-2026
+99  | 1399A      | Remove Smallest                       | 22-Sep-2026

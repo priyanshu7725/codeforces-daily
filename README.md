@@ -102,3 +102,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 96 | [1791A](https://codeforces.com/problemset/problem/1791/A) | Codeforces Checking | 17-Sep-2026 | [CodeforcesChecking.java](CodeforcesChecking.java) |
 | 97 | [1999A](https://codeforces.com/problemset/problem/1999/A) | A+B Again? | 18-Sep-2026 | [APlusBAgain.java](APlusBAgain.java) |
 | 98 | [1512A](https://codeforces.com/problemset/problem/1512/A) | Spy Detected! | 19-Sep-2026 | [SpyDetected.java](SpyDetected.java) |
+| 99 | [1399A](https://codeforces.com/problemset/problem/1399/A) | Remove Smallest | 22-Sep-2026 | [RemoveSmallest.java](RemoveSmallest.java) |
