@@ -104,3 +104,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 98 | [1512A](https://codeforces.com/problemset/problem/1512/A) | Spy Detected! | 19-Sep-2026 | [SpyDetected.java](SpyDetected.java) |
 | 99 | [1399A](https://codeforces.com/problemset/problem/1399/A) | Remove Smallest | 22-Sep-2026 | [RemoveSmallest.java](RemoveSmallest.java) |
 | 100 | [581A](https://codeforces.com/problemset/problem/581/A) | Vasya the Hipster | 23-Sep-2026 | [VasyaTheHipster.java](VasyaTheHipster.java) |
+| 101 | [1915A](https://codeforces.com/problemset/problem/1915/A) | Odd One Out | 24-Sep-2026 | [OddOneOut.java](OddOneOut.java) |

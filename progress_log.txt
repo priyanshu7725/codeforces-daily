@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 100 problems
+Total: 101 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -104,3 +104,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 98  | 1512A      | Spy Detected!                         | 19-Sep-2026
 99  | 1399A      | Remove Smallest                       | 22-Sep-2026
 100 | 581A       | Vasya the Hipster                     | 23-Sep-2026
+101 | 1915A      | Odd One Out                           | 24-Sep-2026
