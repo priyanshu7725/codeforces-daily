@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 102 problems
+Total: 103 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -106,3 +106,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 100 | 581A       | Vasya the Hipster                     | 23-Sep-2026
 101 | 1915A      | Odd One Out                           | 24-Sep-2026
 102 | 1760A      | Medium Number                         | 25-Sep-2026
+103 | 1409A      | Yet Another Two Integers Problem      | 26-Sep-2026

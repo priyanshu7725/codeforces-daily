@@ -106,3 +106,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 100 | [581A](https://codeforces.com/problemset/problem/581/A) | Vasya the Hipster | 23-Sep-2026 | [VasyaTheHipster.java](VasyaTheHipster.java) |
 | 101 | [1915A](https://codeforces.com/problemset/problem/1915/A) | Odd One Out | 24-Sep-2026 | [OddOneOut.java](OddOneOut.java) |
 | 102 | [1760A](https://codeforces.com/problemset/problem/1760/A) | Medium Number | 25-Sep-2026 | [MediumNumber.java](MediumNumber.java) |
+| 103 | [1409A](https://codeforces.com/problemset/problem/1409/A) | Yet Another Two Integers Problem | 26-Sep-2026 | [YetAnotherTwoIntegersProblem.java](YetAnotherTwoIntegersProblem.java) |
