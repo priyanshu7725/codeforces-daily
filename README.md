@@ -107,3 +107,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 101 | [1915A](https://codeforces.com/problemset/problem/1915/A) | Odd One Out | 24-Sep-2026 | [OddOneOut.java](OddOneOut.java) |
 | 102 | [1760A](https://codeforces.com/problemset/problem/1760/A) | Medium Number | 25-Sep-2026 | [MediumNumber.java](MediumNumber.java) |
 | 103 | [1409A](https://codeforces.com/problemset/problem/1409/A) | Yet Another Two Integers Problem | 26-Sep-2026 | [YetAnotherTwoIntegersProblem.java](YetAnotherTwoIntegersProblem.java) |
+| 104 | [32A](https://codeforces.com/problemset/problem/32/A) | Borze | 27-Sep-2026 | [Borze.java](Borze.java) |
