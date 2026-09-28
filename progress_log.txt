@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 104 problems
+Total: 105 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -108,3 +108,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 102 | 1760A      | Medium Number                         | 25-Sep-2026
 103 | 1409A      | Yet Another Two Integers Problem      | 26-Sep-2026
 104 | 32A        | Borze                                 | 27-Sep-2026
+105 | 758A       | Holiday Of Equality                   | 28-Sep-2026
