@@ -109,3 +109,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 103 | 1409A      | Yet Another Two Integers Problem      | 26-Sep-2026
 104 | 32A        | Borze                                 | 27-Sep-2026
 105 | 758A       | Holiday Of Equality                   | 28-Sep-2026
+106 | 1850A      | To My Critics                         | 29-Sep-2026
