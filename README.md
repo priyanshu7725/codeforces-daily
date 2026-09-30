@@ -110,3 +110,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 104 | [32A](https://codeforces.com/problemset/problem/32/A) | Borze | 27-Sep-2026 | [Borze.java](Borze.java) |
 | 105 | [758A](https://codeforces.com/problemset/problem/758/A) | Holiday Of Equality | 28-Sep-2026 | [HolidayOfEquality.java](HolidayOfEquality.java) |
 | 106 | [1850A](https://codeforces.com/problemset/problem/1850/A) | To My Critics | 29-Sep-2026 | [ToMyCritics.java](ToMyCritics.java) |
+| 107 | [2009A](https://codeforces.com/problemset/problem/2009/A) | Minimize! | 30-Sep-2026 | [Minimize.java](Minimize.java) |
