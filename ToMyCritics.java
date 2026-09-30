@@ -16,5 +16,7 @@ public class ToMyCritics {
             else
                 System.out.println("NO");
         }
+
+        sc.close();
     }
 }
