@@ -111,3 +111,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 105 | [758A](https://codeforces.com/problemset/problem/758/A) | Holiday Of Equality | 28-Sep-2026 | [HolidayOfEquality.java](HolidayOfEquality.java) |
 | 106 | [1850A](https://codeforces.com/problemset/problem/1850/A) | To My Critics | 29-Sep-2026 | [ToMyCritics.java](ToMyCritics.java) |
 | 107 | [2009A](https://codeforces.com/problemset/problem/2009/A) | Minimize! | 30-Sep-2026 | [Minimize.java](Minimize.java) |
+| 108 | [1560A](https://codeforces.com/problemset/problem/1560/A) | Dislike Of Three | 01-Oct-2026 | [DislikeOfThree.java](DislikeOfThree.java) |
