@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 108 problems
+Total: 109 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -112,3 +112,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 106 | 1850A      | To My Critics                         | 29-Sep-2026
 107 | 2009A      | Minimize!                             | 30-Sep-2026
 108 | 1560A      | Dislike Of Three                      | 01-Oct-2026
+109 | 1985A      | Creating Words                        | 02-Oct-2026
