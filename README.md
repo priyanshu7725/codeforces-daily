@@ -113,3 +113,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 107 | [2009A](https://codeforces.com/problemset/problem/2009/A) | Minimize! | 30-Sep-2026 | [Minimize.java](Minimize.java) |
 | 108 | [1560A](https://codeforces.com/problemset/problem/1560/A) | Dislike Of Three | 01-Oct-2026 | [DislikeOfThree.java](DislikeOfThree.java) |
 | 109 | [1985A](https://codeforces.com/problemset/problem/1985/A) | Creating Words | 02-Oct-2026 | [CreatingWords.java](CreatingWords.java) |
+| 110 | [1873A](https://codeforces.com/problemset/problem/1873/A) | Short Sort | 03-Oct-2026 | [ShortSort.java](ShortSort.java) |
