@@ -115,3 +115,4 @@ A daily practice log of Codeforces problems solved in Java.
 | 109 | [1985A](https://codeforces.com/problemset/problem/1985/A) | Creating Words | 02-Oct-2026 | [CreatingWords.java](CreatingWords.java) |
 | 110 | [1873A](https://codeforces.com/problemset/problem/1873/A) | Short Sort | 03-Oct-2026 | [ShortSort.java](ShortSort.java) |
 | 111 | [1829A](https://codeforces.com/problemset/problem/1829/A) | Love Story | 04-Oct-2026 | [LoveStory.java](LoveStory.java) |
+| 112 | [490A](https://codeforces.com/problemset/problem/490/A) | Team Olympiad | 05-Oct-2026 | [TeamOlympiad.java](TeamOlympiad.java) |
