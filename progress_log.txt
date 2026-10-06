@@ -1,6 +1,6 @@
 CODEFORCES DAILY - SOLVED PROBLEMS
 ===================================
-Total: 112 problems
+Total: 113 problems
 
 No. | Problem ID | Problem Name                          | Date Solved
 ----|------------|---------------------------------------|-------------
@@ -116,3 +116,4 @@ No. | Problem ID | Problem Name                          | Date Solved
 110 | 1873A      | Short Sort                            | 03-Oct-2026
 111 | 1829A      | Love Story                            | 04-Oct-2026
 112 | 490A       | Team Olympiad                         | 05-Oct-2026
+113 | 9A         | Die Roll                              | 06-Oct-2026
